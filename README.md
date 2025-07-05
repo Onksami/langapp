@@ -1,4 +1,5 @@
 LangApp — Learn Swedish Effortlessly
+
 LangApp is a minimalist React + TypeScript web app built with Vite, designed to help you learn Swedish vocabulary with example sentences in an interactive way.
 
 🚀 Features
