@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "word": "att förstå",
+    "eng": "to understand",
+    "example": "Jag förstår inte den här texten."
+  },
+  {
+    "id": 2,
+    "word": "att börja",
+    "eng": "to start/begin",
+    "example": "Vi börjar lektionen kl. 9."
+  },
+  {
+    "id": 3,
+    "word": "att behöva",
+    "eng": "to need",
+    "example": "Du behöver en ny dator."
+  },
+  {
+    "id": 4,
+    "word": "att tycka",
+    "eng": "to think (opinion)",
+    "example": "Vad tycker du om filmen?"
+  },
+  {
+    "id": 5,
+    "word": "att tro",
+    "eng": "to believe",
+    "example": "Jag tror att det kommer att regna."
+  },
+  {
+    "id": 6,
+    "word": "en möjlighet",
+    "eng": "an opportunity",
+    "example": "Det här är en bra möjlighet att resa."
+  },
+  {
+    "id": 7,
+    "word": "ett problem",
+    "eng": "a problem",
+    "example": "Vi har ett problem med bilen."
+  },
+  {
+    "id": 8,
+    "word": "en fördel",
+    "eng": "an advantage",
+    "example": "En fördel med att cykla är att det är billigt."
+  },
+  {
+    "id": 9,
+    "word": "rolig",
+    "eng": "funny",
+    "example": "Det var en rolig film!"
+  },
+  {
+    "id": 10,
+    "word": "viktig",
+    "eng": "important",
+    "example": "Det är viktigt att dricka vatten."
+  },
+  {
+    "id": 11,
+    "word": "att påverka",
+    "eng": "to influence",
+    "example": "Miljön påverkas av utsläpp."
+  },
+  {
+    "id": 12,
+    "word": "att hantera",
+    "eng": "to handle",
+    "example": "Hon kan hantera stress bra."
+  },
+  {
+    "id": 13,
+    "word": "att utveckla",
+    "eng": "to develop",
+    "example": "Företaget vill utveckla nya produkter."
+  },
+  {
+    "id": 14,
+    "word": "en utmaning",
+    "eng": "a challenge",
+    "example": "Det här projektet är en stor utmaning."
+  },
+  {
+    "id": 15,
+    "word": "ett samarbete",
+    "eng": "a collaboration",
+    "example": "Vi har ett samarbete med ett tyskt företag."
+  },
+  {
+    "id": 16,
+    "word": "effektiv",
+    "eng": "efficient",
+    "example": "Den här metoden är mycket effektiv."
+  },
+  {
+    "id": 17,
+    "word": "komplex",
+    "eng": "complex",
+    "example": "Det är ett komplext problem."
+  },
+  {
+    "id": 18,
+    "word": "att förbättra",
+    "eng": "to improve",
+    "example": "Vi måste förbättra vår service."
+  },
+  {
+    "id": 19,
+    "word": "att anpassa",
+    "eng": "to adapt",
+    "example": "Vi måste anpassa oss till förändringarna."
+  },
+  {
+    "id": 20,
+    "word": "en lösning",
+    "eng": "a solution",
+    "example": "Vi behöver en snabb lösning på det här problemet."
+  },
+  {
+    "id": 21,
+    "word": "att förklara",
+    "eng": "to explain",
+    "example": "Kan du förklara det här för mig?"
+  },
+  {
+    "id": 22,
+    "word": "att förbättra",
+    "eng": "to improve",
+    "example": "Vi måste förbättra vår kommunikation."
+  },
+  {
+    "id": 23,
+    "word": "att skapa",
+    "eng": "to create",
+    "example": "Hon vill skapa en ny app."
+  },
+  {
+    "id": 24,
+    "word": "att stödja",
+    "eng": "to support",
+    "example": "Vi stödjer lokala företag."
+  },
+  {
+    "id": 25,
+    "word": "att organisera",
+    "eng": "to organize",
+    "example": "Vi organiserar en konferens nästa månad."
+  },
+  {
+    "id": 26,
+    "word": "att förbättra",
+    "eng": "to improve",
+    "example": "Vi måste förbättra vår produkt."
+  },
+  {
+    "id": 27,
+    "word": "att analysera",
+    "eng": "to analyze",
+    "example": "Vi behöver analysera marknaden noggrant."
+  },
+  {
+    "id": 28,
+    "word": "att implementera",
+    "eng": "to implement",
+    "example": "Vi ska implementera de nya rutinerna nästa vecka."
+  },
+  {
+    "id": 29,
+    "word": "att utvärdera",
+    "eng": "to evaluate",
+    "example": "Vi kommer att utvärdera projektet efter tre månader."
+  },
+  {
+    "id": 30,
+    "word": "att kommunicera",
+    "eng": "to communicate",
+    "example": "Det är viktigt att kommunicera tydligt."
+  }
+]
